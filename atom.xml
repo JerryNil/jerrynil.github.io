@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Walk steps step by step]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-09-13T14:11:50.069Z</updated>
+  <updated>2014-09-13T14:33:14.294Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,14 +18,16 @@
     <title><![CDATA[]]></title>
     <link href="http://yoursite.com/2014/09/13/new-post/"/>
     <id>http://yoursite.com/2014/09/13/new-post/</id>
-    <published>2014-09-13T13:01:28.000Z</published>
-    <updated>2014-09-13T13:01:27.000Z</updated>
+    <published>2014-09-13T14:33:05.000Z</published>
+    <updated>2014-09-13T14:33:03.000Z</updated>
     <content type="html"><![CDATA[<p>title: new post<br>date: 2014-09-13 21:00:06<br>categories:blog</p>
 <h2 id="tags:[博客，文章]">tags:[博客，文章]</h2>
+<p>这只是一个测试</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>title: new post<br>date: 2014-09-13 21:00:06<br>categories:blog</p>
 <h2 id="tags:[博客，文章]">tags:[博客，文章]</h2>
+<p>这只是一个测试</p>
 ]]>
     </summary>
     
